@@ -18,13 +18,17 @@
         {
             "file"       : "KSPInterstellar-master/GameData/WarpPlugin",
             "install_to" : "GameData"
+        },
+		{
+            "file"       : "KSPInterstellar-master/GameData/CommunityResourcePack",
+            "install_to" : "GameData"
+        },
+		{
+            "file"       : "KSPInterstellar-master/GameData/CommunityTechTree",
+            "install_to" : "GameData"
         }
     ],
     "depends" : [
-        { "name"         : "CommunityResourcePack",
-		  "version"      : "0.3.3-interstellar" },
-		{ "name"         : "CommunityTechTree",
-		  "version"      : "0.3.3-interstellar" },
 		{ "name"         : "OpenResourceSystem",
 		  "version"      : "1.4.2-interstellar" },
 		{ "name"         : "ORSResourcePack", 
