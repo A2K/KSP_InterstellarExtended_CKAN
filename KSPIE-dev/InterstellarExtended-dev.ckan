@@ -27,11 +27,17 @@
     "depends" : [
         { "name"         : "CommunityResourcePack" },
 		{ "name"         : "CommunityTechTree",
-		  "version"      : "0.3.3-interstellar" },
+		  "version"      : "0.3.3-interstellar",
+		  "min-version"  : "0.3.3-interstellar",
+		  "max-version"  : "0.3.3-interstellar" },
 		{ "name"         : "OpenResourceSystem",
-		  "version"      : "1.4.2-interstellar" },
+		  "version"      : "1.4.2-interstellar",
+          "min-version"  : "1.4.2-interstellar",
+		  "max-version"  : "1.4.2-interstellar" },
 		{ "name"         : "ORSResourcePack", 
-		  "version"      : "1.4.2-interstellar" },
+		  "version"      : "1.4.2-interstellar",
+		  "min-version"  : "1.4.2-interstellar",
+		  "max-version"  : "1.4.2-interstellar" },
         { "name"         : "ModuleManager", 
 		  "min_version"  : "2.6.3" }
     ]

@@ -22,6 +22,8 @@
     ],
 	"depends" : [
 		{ "name"         : "OpenResourceSystem",
-		  "min_version"  : "1.4.2-interstellar" }
+		  "version"      : "1.4.2-interstellar"
+		  "min_version"  : "1.4.2-interstellar",
+          "max_version"  : "1.4.2-interstellar" }
 	]
 }
