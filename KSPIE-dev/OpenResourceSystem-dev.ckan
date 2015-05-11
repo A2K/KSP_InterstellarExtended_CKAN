@@ -1,13 +1,18 @@
 {
-    "spec_version"      : "v1.6",
-    "identifier"        : "OpenResourceSystem",
-    "name"              : "Open Resource System",
-    "author"            : "Fractal_UK",
-    "version"           : "1.4.2",
-    "abstract"          : "Resources framework",
-    "ksp_version"       : "1.0.2",
-    "license"           : "CC0",
-    "download"          : "https://github.com/sswelm/KSPInterstellar/archive/master.zip",
+    "spec_version"       : "v1.6",
+    "identifier"         : "OpenResourceSystem",
+    "name"               : "Open Resource System",
+    "author"             : "Fractal_UK",
+    "version"            : "1.4.2",
+    "abstract"           : "Resources framework",
+    "ksp_version"        : "1.0.2",
+    "license"            : "CC0",
+	"release_status"     : "development",
+    "download"           : "https://github.com/sswelm/KSPInterstellar/archive/master.zip",
+	"resources" : {
+        "homepage"       : "http://forum.kerbalspaceprogram.com/threads/111159",
+        "repository"     : "https://github.com/sswelm/KSPInterstellar"
+    },
 	"install" : [
         {
             "file"       : "KSPInterstellar-master/GameData/OpenResourceSystem",
