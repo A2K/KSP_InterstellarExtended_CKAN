@@ -25,7 +25,10 @@
         }
     ],
     "depends" : [
-        { "name"         : "CommunityResourcePack" },
+        { "name"         : "CommunityResourcePack",
+		  "version"      : "0.3.3-interstellar",
+		  "min-version"  : "0.3.3-interstellar",
+		  "max-version"  : "0.3.3-interstellar" },
 		{ "name"         : "CommunityTechTree",
 		  "version"      : "0.3.3-interstellar",
 		  "min-version"  : "0.3.3-interstellar",
