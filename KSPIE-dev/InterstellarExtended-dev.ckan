@@ -1,0 +1,31 @@
+{
+    "spec_version"   : "v1.6",
+    "name"           : "Interstellar Extended",
+    "abstract"       : "Electric generators, thermal rockets, beamed power",
+    "identifier"     : "KSPIE",
+    "$kref"          : "#/ckan/github/sswelm/KSPInterstellar",
+    "download"       : "https://github.com/sswelm/KSPInterstellar/archive/master.zip",
+    "license"        : "CC0",
+    "version"        : "1.0.12",
+    "release_status" : "development",
+    "ksp_version"    : "1.0.2",
+    "resources" : {
+        "homepage"     : "http://forum.kerbalspaceprogram.com/threads/111159",
+        "repository"   : "https://github.com/sswelm/KSPInterstellar"
+    },
+    "install" : [
+        {
+            "file"       : "KSPInterstellar-master/GameData/WarpPlugin",
+            "install_to" : "GameData"
+        }
+    ],
+    "depends" : [
+        { "name" : "CommunityResourcePack" },
+		{ "name" : "CommunityTechTree" },
+		{ "name" : "OpenResourceSystem" },
+		{ "name" : "ORSResourcePack" },
+        { "name" : "ModuleManager", "min_version" : "2.6.3" }
+    ],
+    "recommends" : [
+    ]
+}
