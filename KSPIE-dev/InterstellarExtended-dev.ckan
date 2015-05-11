@@ -20,15 +20,13 @@
             "install_to" : "GameData"
         },
 		{
-            "file"       : "KSPInterstellar-master/GameData/CommunityTechTree",
+            "file"       : "KSPInterstellar-master/GameData/000_Toolbar",
             "install_to" : "GameData"
         }
     ],
     "depends" : [
-		{ "name" 		 : "KSPIport",
-		  "version"      : "1.13.6" },
         { "name"         : "CommunityResourcePack" },
-		{ "name"         : "CommunityTechTree
+		{ "name"         : "CommunityTechTree",
 		  "version"      : "0.3.3-interstellar" },
 		{ "name"         : "OpenResourceSystem",
 		  "version"      : "1.4.2-interstellar" },

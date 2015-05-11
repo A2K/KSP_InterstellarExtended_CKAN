@@ -21,6 +21,6 @@
     ],
 	"depends" : [
 		{ "name"         : "OpenResourceSystem",
-		  "min_version"  : "1.4.2" }
+		  "min_version"  : "1.4.2-interstellar" }
 	]
 }
