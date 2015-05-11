@@ -3,7 +3,7 @@
     "identifier"         : "OpenResourceSystem",
     "name"               : "Open Resource System",
     "author"             : "Fractal_UK",
-    "version"            : "1.4.2",
+    "version"            : "1.4.2-interstellar",
     "abstract"           : "Resources framework",
     "ksp_version"        : "1.0.2",
     "license"            : "CC0",

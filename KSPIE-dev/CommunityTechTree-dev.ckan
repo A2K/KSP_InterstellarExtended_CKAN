@@ -1,10 +1,10 @@
 {
     "spec_version"       : "v1.6",
-    "identifier"         : "ORSResourcePack",
-    "name"               : "ORS Resource Pack",
-    "author"             : "Fractal_UK",
-    "version"            : "1.4.2-interstellar",
-    "abstract"           : "Resources pack for Open Resource System",
+    "identifier"         : "CommunityTechTree",
+    "name"               : "Community Tech Tree",
+    "author"             : "Nertea",
+    "version"            : "0.3.3-interstellar",
+    "abstract"           : "Tech Tree with mods support",
     "ksp_version"        : "1.0.2",
     "license"            : "CC0",
 	"release_status"     : "development",
@@ -15,12 +15,8 @@
     },
 	"install" : [
         {
-            "file"       : "KSPInterstellar-master/GameData/ORSResourcePack",
+            "file"       : "KSPInterstellar-master/GameData/CommunityTechTree",
             "install_to" : "GameData"
         }
-    ],
-	"depends" : [
-		{ "name"         : "OpenResourceSystem",
-		  "min_version"  : "1.4.2" }
-	]
+    ]
 }
