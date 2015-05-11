@@ -3,7 +3,7 @@
     "name"               : "Interstellar Extended",
     "abstract"           : "Electric generators, thermal rockets, beamed power",
     "identifier"         : "KSPIE",
-    "author"             : "Fractal_UK",
+    "author"             : "FreeThinker",
     "$kref"              : "#/ckan/github/sswelm/KSPInterstellar",
     "download"           : "https://github.com/sswelm/KSPInterstellar/archive/master.zip",
     "license"            : "CC0",
