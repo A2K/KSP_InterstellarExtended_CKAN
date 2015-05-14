@@ -26,6 +26,10 @@
         {
             "file"       : "GameData/ORSResourcePack",
             "install_to" : "GameData"
+        },
+        {
+            "file"       : "GameData/CommunityResourcePack/ResourceConfigs/Ore.cfg",
+            "install_to" : "GameData/WarpPlugin/ResourceConfigs"
         }
     ],
     "depends" : [
