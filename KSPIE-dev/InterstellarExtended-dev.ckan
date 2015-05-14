@@ -7,7 +7,7 @@
     "$kref"              : "#/ckan/github/sswelm/KSPInterstellar",
     "download"           : "https://github.com/sswelm/KSPInterstellar/archive/master.zip",
     "license"            : "CC0",
-    "version"            : "1.0.12",
+    "version"            : "1.0.15",
     "release_status"     : "development",
     "ksp_version"        : "1.0.2",
     "resources" : {
