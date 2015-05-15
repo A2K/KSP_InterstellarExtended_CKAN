@@ -1,8 +1,8 @@
 {
     "spec_version"       : "v1.6",
-    "name"               : "Interstellar Extended",
+    "name"               : "KSP Interstellar Extended",
     "abstract"           : "Realistic road to the stars",
-    "identifier"         : "InterstellarExtended",
+    "identifier"         : "KSPInterstellarExtended",
     "author"             : "FreeThinker",
     "$kref"              : "#/ckan/kerbalstuff/791",
     "download"           : "https://kerbalstuff.com/mod/791/KSP%20Interstellar%20Extended/download/1.1.3",
@@ -26,10 +26,6 @@
         {
             "file"       : "GameData/ORSResourcePack",
             "install_to" : "GameData"
-        },
-        {
-            "file"       : "GameData/CommunityResourcePack/ResourceConfigs/Ore.cfg",
-            "install_to" : "GameData/WarpPlugin/ResourceConfigs"
         }
     ],
     "depends" : [
